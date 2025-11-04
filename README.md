@@ -1,4 +1,4 @@
-<h2 align="center">Supp! 👋! am  Himanshu Kandari and I'm on my way to be a 100xDev.</h2>
+<h2 align="center">Supp! 👋! am  Paarth Kumar and I'm on my way to be a Data analyst.</h2>
 
 ###
 
@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysq logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/PowerBI/icons/powerbi/powerbi-original.svg" height="30" alt="Power BI logo" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="30" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
@@ -34,11 +34,11 @@
 
 <div align="left">
   <!-- Social Links -->
-  <a href="https://linkedin.com/in/himanshukandari" target="blank">
+  <a href="https://linkedin.com/in/paarth-kumar" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
  
-  <a href="mailto:himanshukandari14@gmail.com">
+  <a href="mailto:paarthkumar199@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </div>
