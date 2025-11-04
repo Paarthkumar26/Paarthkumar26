@@ -26,6 +26,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/vscode/vscode-original.svg" height="30" alt="vs logo" />
   <img width="12" />
+   <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png" height="30" alt="excel logo" />
+  <img width="12" />
+
 
 
 </div>
