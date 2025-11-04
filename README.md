@@ -51,7 +51,6 @@
 
 ###
 
-- 🌱 I’m currently learning **Web3, Ethereum, Solidity**
-- 👨‍💻 All of my projects are available at [View link](https://portfolionext2024.vercel.app/)
-- 📫 Reach me at **himanshukandari14@gmail.com**
-- ⚡ Fun fact: **I Love Music**
+- 🌱 I’m currently learning **AWS, Pyhton, Data visualization**
+- 📫 Reach me at **paarthkumar199@gmail.com**
+- ⚡ Fun fact: **I Love to do gym **
