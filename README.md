@@ -21,7 +21,7 @@
  
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="30" alt="Power Bi logo" />
   <img width="12" />
-  <img src="<a href="https://iconscout.com/icons/mysql" class="text-underline font-size-sm" target="_blank">Mysql</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>" height="30" alt="My SQL logo" />
+  <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" height="30" alt="My SQL logo" />
   <img width="12" />
   <img src="<a href="https://iconscout.com/icons/microsoft-excel" class="text-underline font-size-sm" target="_blank">Microsoft Excel</a> by <a href="https://iconscout.com/contributors/sonisokell" class="text-underline font-size-sm">Soni Sokell</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" height="30" alt="MS Excel logo" />
   <img width="12" />
