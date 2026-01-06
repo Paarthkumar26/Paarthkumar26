@@ -19,7 +19,7 @@
   
  
  
-  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" height="30" alt="Power Bi logo" />
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="30" alt="Power Bi logo" />
   <img width="12" />
   <img src="<a href="https://iconscout.com/icons/mysql" class="text-underline font-size-sm" target="_blank">Mysql</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>" height="30" alt="My SQL logo" />
   <img width="12" />
