@@ -23,22 +23,17 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" height="30" alt="My SQL logo" />
   <img width="12" />
-  <img src="<a href="https://iconscout.com/icons/microsoft-excel" class="text-underline font-size-sm" target="_blank">Microsoft Excel</a> by <a href="https://iconscout.com/contributors/sonisokell" class="text-underline font-size-sm">Soni Sokell</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" height="30" alt="MS Excel logo" />
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="30" alt="MS Excel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/vscode/vscode-original.svg" height="30" alt="vs logo" />
   <img width="12" />
  
-   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="firebase logo" />
-          
+ 
 
 </div>
 
