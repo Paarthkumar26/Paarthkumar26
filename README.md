@@ -19,11 +19,11 @@
   
  
  
-  <img src="http://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="30" alt="Power Bi logo" />
+  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" height="30" alt="Power Bi logo" />
   <img width="12" />
-  <img src="https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/mysql/index.html&backText=Return+to+VectorLogoZone" height="30" alt="My SQL logo" />
+  <img src="<a href="https://iconscout.com/icons/mysql" class="text-underline font-size-sm" target="_blank">Mysql</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>" height="30" alt="My SQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
+  <img src="<a href="https://iconscout.com/icons/microsoft-excel" class="text-underline font-size-sm" target="_blank">Microsoft Excel</a> by <a href="https://iconscout.com/contributors/sonisokell" class="text-underline font-size-sm">Soni Sokell</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" height="30" alt="MS Excel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
