@@ -49,10 +49,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
  ###
 🚀 About Me
 - 🔍 Passionate about **Data Analysis & Business Insights**
