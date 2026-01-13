@@ -1,5 +1,5 @@
 
-<h2 align="center">Supp! 👋! am  Paarth Kumar </h2>
+<h2 align="center">Heyy! 👋! am  Paarth Kumar </h2>
 <h3 align="center">📊 Data Analyst | Excel • Power BI • SQL • Python | Aspiring AI/ML Engineer</h3>
 
 <div align="center">
