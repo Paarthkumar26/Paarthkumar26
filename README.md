@@ -17,12 +17,11 @@
  <!-- Organized Programming Language and Tool Logos -->
   
  
- 
-  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power Bi logo" />
-  <img width="15" />
   <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" height="40" alt="My SQL logo" />
   <img width="15" />
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="MS Excel logo" />
+  <img width="15" />
+   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power Bi logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="15" />
