@@ -1,6 +1,6 @@
 
-<h2 align="center">Supp! 👋! am  Paarth Kumar and I'm on my way to be a 100xAnalyst.</h2>
-
+<h2 align="center">Supp! 👋! am  Paarth Kumar .</h2>
+<h3 align="center">📊 Data Analyst | Excel • Power BI • SQL • Python | Aspiring AI/ML Engineer</h3>
 ###
 
 <div align="center">
@@ -54,13 +54,14 @@
 
 <br clear="both">
 
+ ###
+🚀 About Me
+- 🔍 Passionate about **Data Analysis & Business Insights**
+- 📈 Currently learning **AI / Machine Learning**
+- 💡 Love turning raw data into meaningful stories
+- 🎵 Fun fact: I love music
 
 
-###
-
-- 🌱 I’m currently learning **AI/ML**
-- 📫 Reach me at **paarthkumar199@gmail.com**
-- ⚡ Fun fact: **I Love Music**
 
 <!--
 **Paarthkumar26/Paarthkumar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
