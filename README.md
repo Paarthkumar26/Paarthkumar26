@@ -17,7 +17,7 @@
  <!-- Organized Programming Language and Tool Logos -->
   
  
-  <img src="<i class="fi fi-brands-mysql"></i>" height="40" alt="My SQL logo" />
+  <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" height="40" alt="My SQL logo" />
   <img width="15" />
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="MS Excel logo" />
   <img width="15" />
